@@ -1,0 +1,1 @@
+puhnro:käytäjätunnus:etunimi:sukunimi:sukupuoli:asuinpaikka:syntymäpaikka:seurustelutila:työpaikka:liittyi:sähköposti:syntymäpäivä
